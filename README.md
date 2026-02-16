@@ -1,2 +1,2 @@
-# awihawaii.github.io
+# hawihawaii.github.io
 Meine Portfolio-Website
